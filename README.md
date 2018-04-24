@@ -13,11 +13,6 @@ Block Array Corporation [^1]
 
 www.blockarray.com
 
-[airtable-embed](https://airtable.com/embed/shrCzCmWXhYaIs4oX?backgroundColor=blue&layout=card&viewControls=on ':include :type=iframe width=100% height=533x')
-
-
-
-
 
 ----------
 Table of Contents 
@@ -109,7 +104,7 @@ The Electronic Logging Device Mandate (ELD) is intended to help create a safer w
 What is the impact of this new law?
 
 
-> Under Federal regulations, the motor carrier is responsible for training and monitoring its drivers to ensure compliance with Hours of Service rules.  Any driver violation may also be held against the carrier. Failing to establish an effective Hours of Service monitoring and compliance system can result in fines of thousands of dollars.  In extreme cases, motor carrier officials have even received jail sentences.
+!> Under Federal regulations, the motor carrier is responsible for training and monitoring its drivers to ensure compliance with Hours of Service rules.  Any driver violation may also be held against the carrier. Failing to establish an effective Hours of Service monitoring and compliance system can result in fines of thousands of dollars.  In extreme cases, motor carrier officials have even received jail sentences.
 
 So any violation in failing to comply with this new law could mean 
 
@@ -117,7 +112,7 @@ So any violation in failing to comply with this new law could mean
 Four Driver Status Modes
 The choices of duty status when a property-carrying driver records his or her time on a record of duty status, or R.O.D.S
 
-?> off duty | sleeper berth | driving | on duty/not driving |
+> off duty | sleeper berth | driving | on duty/not driving |
 
 
 
