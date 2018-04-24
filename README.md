@@ -2,6 +2,10 @@
 
 # Block Array White Paper
 
+!> **Warning** This is in progress, and may have breaking issues
+
+:warning: Many features are to be added, with graphics being the last. Spelling errors are to be expected
+
 ## Introduction
 
 
@@ -10,6 +14,7 @@ Block Array Corporation
 www.blockarray.com
 
 [airtable-embed](https://airtable.com/embed/shrCzCmWXhYaIs4oX?backgroundColor=blue&layout=card&viewControls=on ':include :type=iframe width=100% height=533x')
+
 
 
 
@@ -112,7 +117,7 @@ So any violation in failing to comply with this new law could mean
 Four Driver Status Modes
 The choices of duty status when a property-carrying driver records his or her time on a record of duty status, or R.O.D.S
 
-| off duty | sleeper berth | driving | on duty/not driving |
+?> off duty | sleeper berth | driving | on duty/not driving |
 
 
 
