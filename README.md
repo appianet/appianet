@@ -9,6 +9,7 @@ Block Array Corporation
 
 www.blockarray.com
 
+[airtable-embed](https://airtable.com/embed/shrCzCmWXhYaIs4oX?backgroundColor=blue&layout=card&viewControls=on ':include :type=iframe width=100% height=533x')
 
 
 
