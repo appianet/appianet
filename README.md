@@ -2,8 +2,8 @@
 
 # Block Array White Paper
 
-#### Version Information
-#### Author:
+## Introduction
+
 
 Block Array Corporation
 
@@ -49,6 +49,7 @@ Table of Contents
 9. Appendix
 
 
+
 ----------
 
 
@@ -80,8 +81,6 @@ copyright and disclaimer page
 
 
 # Abstract
-
-
 
 
 ----------
@@ -193,10 +192,11 @@ Documents & Records: Bills of Lading, Industry Specific Documents, Legally Manda
 Barcodes -  
 
 
-### Passports - Driver, Vehicle and Asset
+## Passports - Driver, Vehicle and Asset
 
 Driver records are a great use case.
 
+[airtable-embed](https://airtable.com/embed/shrCzCmWXhYaIs4oX?backgroundColor=blue&layout=card&viewControls=on ':include :type=iframe width=100% height=533x')
 
 | Identifying Information for Supporting Documents                                                                                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -207,7 +207,10 @@ Driver records are a great use case.
 
 *These must be listed on the supporting documents in order to be eligible for use.*
 
-| Supporting Documents 
+### Supporting Documents 
+
+[airtable-embed](https://airtable.com/embed/shrmxXAV1idTUZ1xE?backgroundColor=blue&layout=card&viewControls=on ':include :type=iframe width=100% height=533x')
+
 
 Documents that must be retained by law                                                              |
 | -------------------------------------------------------------------------------------------------------------------------- |
