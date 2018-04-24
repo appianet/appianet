@@ -9,7 +9,7 @@
 ## Introduction
 
 
-Block Array Corporation
+Block Array Corporation [^1]
 
 www.blockarray.com
 
@@ -449,12 +449,24 @@ Requirements
 
 ----------
 
-References
+# References
 
 FMCSA 
 https://www.fmcsa.dot.gov/hours-service/elds/electronic-logging-devices
 
 D.O.T 
 https://www.gpo.gov/fdsys/pkg/FR-2015-12-16/pdf/2015-31336.pdf
+
+___
+
+# Document Styling Guide
+
+This document was prepared in Sublime 3
+
+This document uses the following Markdown Specifications 
+
+<b>Common Mark</b>
+
+_Github Style__
 
 
