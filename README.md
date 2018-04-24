@@ -152,6 +152,9 @@ Add to these rules are the burdensome additional regulations such as when
 6. The counting of the maximum 60 or 70 hours on duty restarts anytime a driver has at least 34 consecutive hours off duty.
                                                                                                         source: FMCSA 2018 
 
+[airtable-embed](https://airtable.com/embed/shrAK5qn8v7XOt5fq?backgroundColor=blue&viewControls=on ':include :type=iframe width=100% height=533x')
+
+
 <explainer paragraph>
 
 
@@ -461,12 +464,16 @@ ___
 
 # Document Styling Guide
 
-This document was prepared in Sublime 3
+This document was prepared in [**Sublime 3**](https://www.sublimetext.com/)
+
+$$ \alpha $$
 
 This document uses the following Markdown Specifications 
-
 <b>Common Mark</b>
 
-_Github Style__
+Finally, the site was generated using [**docsify**](https://docsify.js.org/#/)
+
+(C) 2018 **Block Array Corporation** | *All Rights Reserved*
+
 
 
